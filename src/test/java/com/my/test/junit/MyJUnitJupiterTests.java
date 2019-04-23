@@ -2,10 +2,7 @@ package com.my.test.junit;
 
 
 import com.my.test.Game;
-import org.junit.Before;
 import org.junit.Test;
-
-import static org.junit.Assert.assertEquals;
 
 
 /**
